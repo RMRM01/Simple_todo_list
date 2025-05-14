@@ -1,2 +1,3 @@
 # Simple_todo_list
-A todo list always help us to stay on track. Rather than losing us in the middle of nothing. This web app will help us in that case. 
+A to-do list always helps us to stay on track, rather than getting us in the middle of nowhere. This web app will help us in that case. 
+Thank You.
