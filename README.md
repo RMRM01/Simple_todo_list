@@ -1,3 +1,4 @@
 # Simple_todo_list
-A to-do list always helps us to stay on track, rather than getting us in the middle of nowhere. This web app will help us in that case. 
+## this is my first step towards learning firebase.
+A to-do list always helps us to stay on track, rather than getting us in the middle of nowhere. 
 Thank You.
